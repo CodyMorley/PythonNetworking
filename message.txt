@@ -1,0 +1,3 @@
+hello mail
+
+mail sent via python script
